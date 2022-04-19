@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanjaykumar0072
 - 👀 I’m interested in ...developing 
-- 🌱 I’m currently learning ...java fullstack developer
+- 🌱 I’m currently learning ...java fullstack developing
 - 💞️ I’m looking to collaborate after ...my course finished
 - 📫 How to reach me ...
 
