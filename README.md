@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Sanjaykumar0072
-- 👀 I’m interested in ...developing 
-- 🌱 I’m currently learning ...fullstack developing
+- 👋 Hi, I’m @Sanjaykumar
+- 👀 I’m interested in developing end innovation ideas.
 - 💞️ I'm interested in collaboration.
 -    I'm available for immediate joining.
 <!---
